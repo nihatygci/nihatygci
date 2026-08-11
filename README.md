@@ -4,13 +4,21 @@
 
 I build modern, responsive websites and digital products with a focus on clean design, usability, performance, and practical solutions.
 
+## Portfolio
+
+**[View my portfolio](https://nihatygci.github.io/portfolio/)**
+
+My portfolio includes selected software projects, client work, and website concepts.
+
 ## Featured Project
 
 ### SAGI Finance
 
-A personal finance management application developed as an Android TWA/PWA product.
+A personal finance management application developed as a PWA and Android TWA product.
 
-SAGI helps users manage income, expenses, budgets, and financial activity through a simple and practical interface. The project includes the web application, Android TWA integration, Firebase services, and subscription infrastructure.
+SAGI Finance helps users manage income, expenses, budgets, and financial activity through a simple and practical interface.
+
+The project includes the web application, Android TWA integration, Firebase services, and subscription infrastructure.
 
 **Built with:** `HTML` `CSS` `JavaScript` `Firebase` `Android TWA`
 
@@ -36,11 +44,11 @@ A modern beauty studio website concept focused on visual presentation, service d
 
 ## What I Do
 
-* Modern & responsive websites
-* Front-end development
-* Business websites & digital experiences
-* Custom web solutions
-* Lightweight and performance-focused interfaces
+- Modern & responsive websites
+- Front-end development
+- Business websites & digital experiences
+- Custom web solutions
+- Lightweight and performance-focused interfaces
 
 ## Technologies
 
@@ -52,4 +60,7 @@ Building practical digital products, developing websites for businesses, and exp
 
 ---
 
-[GitHub](https://github.com/nihatygci)
+### Links
+
+- [Portfolio](https://nihatygci.github.io/portfolio/)
+- [GitHub](https://github.com/nihatygci)
